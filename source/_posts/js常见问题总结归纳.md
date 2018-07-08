@@ -2,7 +2,8 @@
 title: js常见问题总结归纳
 date: 2018-02-28 14:08:08
 tags:
-    - js
+    - js 
+    - 面试题
 category:
     - js
 ---
